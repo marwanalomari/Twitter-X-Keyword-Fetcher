@@ -25,7 +25,7 @@ This project is built **for learning purposes**, to explore how APIs work and ho
 ⚙️ Setup
 1. Clone this repository
 git clone https://github.com/marwanalomari/Twitter-X-Keyword-Fetcher.git
-cd x-keyword-fetcher
+cd twitter-x-keyword-fetcher
 
 2. Create a Developer Account on X
 Visit https://developer.x.com
