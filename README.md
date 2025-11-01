@@ -24,7 +24,7 @@ This project is built **for learning purposes**, to explore how APIs work and ho
 
 ⚙️ Setup
 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/x-keyword-fetcher.git
+git clone https://github.com/marwanalomari/x-keyword-fetcher.git
 cd x-keyword-fetcher
 
 2. Create a Developer Account on X
